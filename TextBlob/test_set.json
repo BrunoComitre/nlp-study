@@ -1,0 +1,54 @@
+[
+    {
+      "text": "the beer was good.",
+      "label": "Positive"
+    },
+    {
+      "text": "I do not enjoy my job",
+      "label": "Negative"
+    },
+    {
+      "text": "I ain't feeling dandy today.",
+      "label": "Negative"
+    },
+    {
+      "text": "I feel amazing!",
+      "label": "Positive"
+    },
+    {
+      "text": "Gary is a friend of mine.",
+      "label": "Positive"
+    },
+    {
+      "text": "I can't believe I'm doing this.",
+      "label": "Negative"
+    },
+    {
+      "text": "Great language",
+      "label": "Positive"
+    },
+    {
+      "text": "Poorly this language",
+      "label": "Negative"
+    },
+    {
+      "text": "You're horrible",
+      "label": "Negative"
+    },
+    {
+      "text": "Hot food!",
+      "label": "Positive"
+    },
+    {
+      "text": "What an anger!",
+      "label": "Negative"
+    },
+    {
+      "text": "Great party!",
+      "label": "Positive"
+    },
+    {
+      "text": "I do not hate everyone",
+      "label": "Positive"
+    }
+  ]

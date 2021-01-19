@@ -1,0 +1,122 @@
+[
+    {
+      "text": "I love eating hamburger",
+      "label": "Positive"
+    },
+    {
+      "text": "This place is horrible",
+      "label": "Negative"
+    },
+    {
+      "text": "You are a lovely person",
+      "label": "Positive"
+    },
+    {
+      "text": "You're a horrible person",
+      "label": "Negative"
+    },
+    {
+      "text": "The party is great",
+      "label": "Positive"
+    },
+    {
+      "text": "The party is terrible",
+      "label": "Negative"
+    },
+    {
+      "text": "This place is wonderful",
+      "label": "Positive"
+    },
+    {
+      "text": "Aging",
+      "label": "Negative"
+    },
+    {
+      "text": "I hate you",
+      "label": "Negative"
+    },
+    {
+      "text": "I adore you",
+      "label": "Positive"
+    },
+    {
+      "text": "I love you",
+      "label": "Positive"
+    },
+    {
+      "text": "You're amazing",
+      "label": "Positive"
+    },
+    {
+      "text": "I'm very angry",
+      "label": "Negative"
+    },
+    {
+      "text": "I hate this language",
+      "label": "Negative"
+    },
+    {
+      "text": "This language is fantastic",
+      "label": "Positive"
+    },
+    {
+      "text": "This language is very good",
+      "label": "Positive"
+    },
+    {
+      "text": "What delicious food",
+      "label": "Positive"
+    },
+    {
+      "text": "What horrible food",
+      "label": "Negative"
+    },
+    {
+      "text": "I'm feeling great",
+      "label": "Positive"
+    },
+    {
+      "text": "Today I'm terrible",
+      "label": "Negative"
+    },
+    {
+      "text": "I love this sandwich.",
+      "label": "Positive"
+    },
+    {
+      "text": "this is an amazing place!",
+      "label": "Positive"
+    },
+    {
+      "text": "I feel very good about these beers.",
+      "label": "Positive"
+    },
+    {
+      "text": "this is my best work.",
+      "label": "Positive"
+    },
+    {
+      "text": "what an awesome view",
+      "label": "Positive"
+    },
+    {
+      "text": "I do not like this restaurant",
+      "label": "Negative"
+    },
+    {
+      "text": "I am tired of this stuff.",
+      "label": "Negative"
+    },
+    {
+      "text": "I can't deal with this",
+      "label": "Negative"
+    },
+    {
+      "text": "he is my sworn enemy!",
+      "label": "Negative"
+    },
+    {
+      "text": "my boss is horrible.",
+      "label": "Negative"
+    }
+  ]
